@@ -28,7 +28,7 @@
 ### Задание 3. Удаление по TTL в Memcached
 
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5. 
-https://github.com/Fizic666/SDB_11_02/blob/main/11-2-3.jpg
+
 ![Название скриншота 1](https://github.com/Fizic666/SDB_11_02/blob/main/11-2-3.jpg)
 
 ---
