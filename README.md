@@ -21,7 +21,7 @@
 
 Установите и запустите memcached.
 
-
+![Название скриншота 1](https://github.com/Fizic666/SDB_11_02/blob/main/11-2-1.jpg)
 
 ---
 
